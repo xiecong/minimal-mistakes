@@ -1,7 +1,7 @@
 ---
-title: "Bio"
+title: "Publication"
 layout: default
-excerpt: "Bio"
+excerpt: "Publication"
 sitemap: false
-permalink: /bio.html
+permalink: /publication.html
 ---
