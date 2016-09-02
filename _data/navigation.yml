@@ -4,13 +4,16 @@ main:
     url: /bio
 
   - title: "Publications"
-    url: /
+    url: /publication
 
+  - title: "Projects"
+    url: /project
+    
   - title: "Awards & Honors"
-    url: /
+    url: /awards
   
   - title: "Activities"
-    url: /
+    url: /activities
   
   - title: "Blog"
     url: /
