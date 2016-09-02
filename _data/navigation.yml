@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Bio"
-    url: /_pages/bio
+    url: /bio
 
   - title: "Publications"
     url: /
