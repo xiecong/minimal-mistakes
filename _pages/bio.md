@@ -1,6 +1,6 @@
 ---
 title: "Bio"
-layout: single
+layout: default
 excerpt: "Bio"
 sitemap: false
 permalink: /bio.html
