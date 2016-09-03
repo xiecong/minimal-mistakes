@@ -2,7 +2,7 @@
 title: "Bio"
 layout: single
 excerpt: "Bio"
-sitemap: false
+author_profile: true
 permalink: /bio.html
 ---
 Hi, I am Cong Xie. I am a phd student under the supervision of [Prof. Klaus Mueller](http://www3.cs.stonybrook.edu/~mueller/) in [Department of Computer Science](http://www.cs.stonybrook.edu/), [Stony Brook University](http://www.stonybrook.edu/).
