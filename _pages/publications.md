@@ -57,7 +57,7 @@ Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei C
 <br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
 <i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
 <br />
-<a href="">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/3DPBA.pdf">[PDF]</a>
 </p>
 </li>
 
@@ -75,7 +75,7 @@ Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
 <br><b>An Online Visualization System for Streaming Log Data of Computing Clusters</b><br>
 <i>Tsinghua Science and Technology</i>
 2013, 18(2):196-205<br />
-<a href="">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/stream.pdf">[PDF]</a>
 </p>
 </li>
 
