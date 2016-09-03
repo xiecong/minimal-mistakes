@@ -66,7 +66,6 @@ Guizhen Wang, Chaokai Wen, Binghui Yan, Cong Xie, Ronghua Liang and Wei Chen
 <br><b>Topic Hypergraph: Hierarchical Visualization of Thematic Structures in Long Documents</b><br>
 <i>Science China Information Sciences</i>
 May 2013, Volume 56, Issue 5, pp 1-14.<br />
-<a href="">[PDF]</a>
 </p>
 </li>
 
