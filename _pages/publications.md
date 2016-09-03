@@ -12,7 +12,7 @@ permalink: /publications.html
 <!-- Item: Pont-Tuset2016a -->
 <li ><p>
 Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
-<br><b>Supervised Evaluation of Image Segmentation and Object Proposal Techniques</b><br>
+<br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>,
 , vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <br />
