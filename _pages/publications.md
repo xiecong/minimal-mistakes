@@ -84,7 +84,6 @@ Hui Lei, Jiawei Zhang, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
 <br><b>Visualizing Large- Scale Graph Based on Line Integral Convolution</b><br>
 <i>Journal of Computer-Aided Design & Computer Graphics 2013</i>
 25(9) (In Chinese)<br />
-<a href="">[PDF]</a>
 </p>
 
 <li ><p>
@@ -92,7 +91,7 @@ Xing Xu, Cong Xie, Fuli Wu, Jinsong Yang, Wuheng Zuo, SengXiang Yan, and Wei Che
 <br><b>Web Oriented Medical Image Visualization System</b><br>
 <i>The 16th National Conference on Image and Graphics (NCIG 2012) (In Chinese)</i>
 <br />
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Web Oriented Medical Image Visualization System.pdf">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Web.pdf">[PDF]</a>
 </p>
 </li>
 </li>
