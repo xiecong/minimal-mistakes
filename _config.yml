@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Cong Xie"
+name                     : "Cong Xie (解聪)"
 description              : "An amazing website."
 url                      : https://xiecong.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
