@@ -2,7 +2,7 @@
 title: "Projects"
 layout: single
 excerpt: "Projects"
-sitemap: true
+author_profile: true
 permalink: /projects.html
 ---
 
