@@ -16,7 +16,7 @@ Cong Xie, Wen Zhong, Klaus Mueller
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 <b>(IEEE VAST 2016 Honorable Mention Award)</b>
 <br />
-<a href="">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/vast261_latest.pdf">[PDF]</a>
 </p>
 </li>
 
@@ -26,7 +26,7 @@ Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <br />
-<a href="www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
 </p>
 </li>
 
@@ -38,7 +38,7 @@ Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
 <br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
 <i>VLDB-DMAH 2016</i>
 <br />
-<a href="">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
 </p>
 </li>
 
@@ -48,7 +48,7 @@ Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
 <i>International Symposium on Visual Information Communication and Interaction (VINCI 2016)</i>
 (Corresponding author)
 <br />
-<a href="">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association.pdf">[PDF]</a>
 </p>
 </li>
 
