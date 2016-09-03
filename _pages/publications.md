@@ -45,7 +45,8 @@ Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
 <li ><p>
 Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
 <br><b>Visual Analysis of User-Driven Association Rule Mining</b><br>
-<i>International Symposium on Visual Information Communication and Interaction (VINCI 2016)</i>,
+<i>International Symposium on Visual Information Communication and Interaction (VINCI 2016)</i>
+(Corresponding author)
 <br />
 <a href="">[PDF]</a>
 </p>
