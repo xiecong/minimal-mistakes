@@ -17,7 +17,6 @@ J. Pont-Tuset and <a href="https://imatge.upc.edu/web/ferran" target="_blank">F.
 vol. 38,
 no. 7,
 pp. 1465-1478,
-
 2016.
 
 <br />
@@ -25,18 +24,10 @@ pp. 1465-1478,
 <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7274729">[PDF]</a> <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/seism/index.html">
 [Project Page]</a> 
 </p>
-
 </li>
 
 
-
-
-
-
-
-      <h4 style="margin-bottom:0px;padding-top:20px;">Top-Tier Vision Conference Publications</h4>
-
-    <ul class="biblist">
+<h4 style="margin-bottom:0px;padding-top:20px;">Top-Tier Vision Conference Publications</h4>
 <!-- Item: Maninis2016a -->
 <li ><p>
 <a href="http://www.vision.ee.ethz.ch/~kmaninis" target="_blank">K.K. Maninis</a>, J. Pont-Tuset, <a href="https://biomedicalcomputervision.uniandes.edu.co" target="_blank">P. Arbeláez</a> and <a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1" target="_blank">L. Van Gool</a>
@@ -305,22 +296,10 @@ J. Pont-Tuset and <a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?i
 }</pre>
             </div>
         </li>
-    </ul>
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     
       <h4 style="margin-bottom:0px;padding-top:20px;">Other Vision Publications</h4>
-      
-      <ul class="biblist">
       
 <!-- Item: Pont-Tuset2015a -->
 <li ><p>
