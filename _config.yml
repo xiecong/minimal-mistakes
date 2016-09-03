@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Cong Xie (解聪)"
-  avatar           : "bio-photo.jpg"
+  avatar           : "bio_photo.jpg"
   bio              : "Focusing on visual analytics."
   location         : "Stony Brook"
   email            : 
