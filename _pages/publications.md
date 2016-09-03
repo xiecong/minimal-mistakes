@@ -36,7 +36,7 @@ pp. 1465-1478,
 </p>
 </li>
 
-<h2 style="margin-bottom:0px;padding-top:10px;">Other Visualization Publications<h2>
+<h2 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h2>
 
 <li ><p>
 J. Pont-Tuset and <a href="https://imatge.upc.edu/web/ferran" target="_blank">F. Marques</a>
