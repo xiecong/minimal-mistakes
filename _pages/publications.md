@@ -11,21 +11,18 @@ permalink: /publications.html
 
 <!-- Item: Pont-Tuset2016a -->
 <li ><p>
-J. Pont-Tuset and <a href="https://imatge.upc.edu/web/ferran" target="_blank">F. Marques</a>
+Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <br><b>Supervised Evaluation of Image Segmentation and Object Proposal Techniques</b><br>
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>,
-vol. 38,
-no. 7,
-pp. 1465-1478,
-2016.
+<i>IEEE Transactions on Visualization & Computer Graphics</i>,
+, vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <br />
-<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7274729">[PDF]</a>
+<a href="">[PDF]</a>
 </p>
 </li>
 
 <li ><p>
 J. Pont-Tuset and <a href="https://imatge.upc.edu/web/ferran" target="_blank">F. Marques</a>
-<br><b>Supervised Evaluation of Image Segmentation and Object Proposal Techniques</b><br>
+<br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>,
 vol. 38,
 no. 7,
