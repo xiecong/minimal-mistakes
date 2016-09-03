@@ -26,7 +26,7 @@ Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <br />
-<a href="">[PDF]</a>
+<a href="www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
 </p>
 </li>
 
