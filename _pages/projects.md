@@ -12,12 +12,11 @@ DataV.js is an open source Javascript library based on D3.js and Rafael.js. It a
 It is now applied in some websites such as [Alipay](http://www.alipay.com/) and [Taobao Index](http://shu.taobao.com/). 
 There is also a DataV.js [Extension](http://goo.gl/4nOOlX) in Chrome Web Store. 
 
-<li><b>E-commerce Time-series Explorer</b><br>
+* **E-commerce Time-series Explorer**<br>
 In this project I used modified decision tree to explore interesting transactions such as sales promotions and fake transactions. We visualized the detailed information with a novel design inspired by music notes. Feedbacks from the analysts suggested that it was e ective in supporting a variety of analysis tasks.
-</li>
-<li><b>Dynamic Logistics Visualization</b><br>
+
+* **Dynamic Logistics Visualization**<br>
 This is a cooperation project with Taobao.com. I am the algorithm designer and the programmer. In this project I generated a dynamic density map of logistics datasets using Kernel Density Estimation.
-</li>
 
 ### Scientific Visualization
 * **Clinic Treatment Volume (CTV) Computation of Glioma** <br>
