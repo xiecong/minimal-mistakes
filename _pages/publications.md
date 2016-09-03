@@ -5,20 +5,7 @@ excerpt: "Publications"
 sitemap: false
 permalink: /publications.html
 ---
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include _head.html %}
-</head>
 
-<body class="page">
-<style>
-    /*********************************
-     The list of publication items
-     *********************************/
 /* The list of items */
 .biblist { }
 
@@ -602,7 +589,4 @@ M. Junyent, P. Beltran, M.A. Farr&eacute;, J. Pont-Tuset, A. Chapiro and A. Smol
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}          
-
-</body>
 </html>
