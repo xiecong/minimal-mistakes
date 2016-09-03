@@ -10,7 +10,6 @@ permalink: /projects.html
 * [**DataV.js**](https://github.com/TBEDP/datavjs)<br>
 DataV.js is an open source Javascript library based on D3.js and Rafael.js. It allows people with no pro- gramming knowledge to visualize their data freely. It is now applied in some websites such as Alipay.com and Taobao Index. I am one of the core algorithm designers and the programmers.
 It is now applied in some websites such as [Alipay](http://www.alipay.com/) and [Taobao Index](http://shu.taobao.com/). 
-Source code in GitHub: 
 There is also a DataV.js [Extension](http://goo.gl/4nOOlX) in Chrome Web Store. 
 
 <li><b>E-commerce Time-series Explorer</b><br>
