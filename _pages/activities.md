@@ -2,7 +2,7 @@
 title: "Activities"
 layout: single
 excerpt: "Activities"
-sitemap: false
+author_profile: true
 permalink: /activities.html
 ---
 
