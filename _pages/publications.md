@@ -8,20 +8,6 @@ permalink: /publications.html
 
 
 <h4 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h4>
-<!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
-  <!-- Item: Pont-Tuset2016 -->
-    <li ><p>
-    J. Pont-Tuset, <a href="https://biomedicalcomputervision.uniandes.edu.co" target="_blank">P. Arbeláez</a>, <a href="http://www.cs.berkeley.edu/~barron/" target="_blank">J. Barron</a>, <a href="https://imatge.upc.edu/web/ferran" target="_blank">F. Marques</a>, and <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">J. Malik</a>
-    <br><b>Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation</b><br>
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>,
-2016.
-    <br />
-    <a href="javascript:toggleBibtex('Pont-Tuset2016')">[BibTeX]</a>
-    <a href="http://arxiv.org/pdf/1503.00848v4" target="_blank">[PDF]</a> <a href="http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/" target="_blank">
-    [Project Page]</a>
-    </p>
-    </li>
-
 
 <!-- Item: Pont-Tuset2016a -->
 <li ><p>
