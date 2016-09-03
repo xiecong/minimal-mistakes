@@ -24,7 +24,7 @@ Cong Xie, Wen Zhong, Klaus Mueller
 Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
-, vol.20, no. 12, pp. 1743-1752, Dec. 2014
+vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <br />
 <a href="">[PDF]</a>
 </p>
@@ -35,7 +35,7 @@ Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <li ><p>
 
 Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
-<br><b>. IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
+<br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
 <i>VLDB-DMAH 2016</i>
 <br />
 <a href="">[PDF]</a>
@@ -57,6 +57,24 @@ Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei C
 <br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
 <i>Journal of Zhejiang University (Engineering Science).</i>
 <br />
+<a href="">[PDF]</a>
+</p>
+</li>
+
+<li ><p>
+Guizhen Wang, Chaokai Wen, Binghui Yan, Cong Xie, Ronghua Liang and Wei Chen
+<br><b>Topic Hypergraph: Hierarchical Visualization of Thematic Structures in Long Documents</b><br>
+<i>Science China Information Sciences</i>
+May 2013, Volume 56, Issue 5, pp 1-14.<br />
+<a href="">[PDF]</a>
+</p>
+</li>
+
+<li ><p>
+Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
+<br><b>An Online Visualization System for Streaming Log Data of Computing Clusters</b><br>
+<i>Tsinghua Science and Technology</i>
+2013, 18(2):196-205<br />
 <a href="">[PDF]</a>
 </p>
 </li>
