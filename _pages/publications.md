@@ -2,7 +2,7 @@
 title: "Publications"
 layout: single
 excerpt: "Publications"
-sitemap: false
+author_profile: true
 permalink: /publications.html
 ---
 
