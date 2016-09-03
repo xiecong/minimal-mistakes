@@ -15,7 +15,6 @@ Cong Xie, Wen Zhong, Klaus Mueller
 <br><b>A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 <b>(IEEE VAST 2016 Honorable Mention Award)</b>
-<br />
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/vast261_latest.pdf">[PDF]</a>
 </p>
 </li>
@@ -25,7 +24,6 @@ Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 vol.20, no. 12, pp. 1743-1752, Dec. 2014
-<br />
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
 </p>
 </li>
