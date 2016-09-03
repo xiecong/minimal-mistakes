@@ -7,7 +7,7 @@ permalink: /publications.html
 ---
 
 
-<h4 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h4>
+<h1 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h1>
 
 <!-- Item: Pont-Tuset2016a -->
 <li ><p>
@@ -18,17 +18,13 @@ vol. 38,
 no. 7,
 pp. 1465-1478,
 2016.
-
 <br />
-<a href="javascript:toggleBibtex('Pont-Tuset2016a')">[BibTeX]</a>
-<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7274729">[PDF]</a> <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/seism/index.html">
-[Project Page]</a> 
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7274729">[PDF]</a>
 </p>
 </li>
 
 
-<h4 style="margin-bottom:0px;padding-top:20px;">Top-Tier Vision Conference Publications</h4>
-<!-- Item: Maninis2016a -->
+<h1 style="margin-bottom:0px;padding-top:10px;">Other Visualization Publications<h1>
 <li ><p>
 <a href="http://www.vision.ee.ethz.ch/~kmaninis" target="_blank">K.K. Maninis</a>, J. Pont-Tuset, <a href="https://biomedicalcomputervision.uniandes.edu.co" target="_blank">P. Arbeláez</a> and <a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1" target="_blank">L. Van Gool</a>
 <br><b>Convolutional Oriented Boundaries</b><br>
