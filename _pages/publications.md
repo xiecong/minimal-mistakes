@@ -14,7 +14,7 @@ permalink: /publications.html
 Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
-, vol.20, no. 12, pp. 1743-1752, Dec. 2014
+, 2016 (IEEE VAST 2016 Honorable Mention Award)
 <br />
 <a href="">[PDF]</a>
 </p>
