@@ -20,7 +20,6 @@ permalink: /publications.html
     <a href="http://arxiv.org/pdf/1503.00848v4" target="_blank">[PDF]</a> <a href="http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/" target="_blank">
     [Project Page]</a>
     </p>
-    </div>
     </li>
 
 
