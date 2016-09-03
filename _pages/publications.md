@@ -55,7 +55,7 @@ Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
 <li ><p>
 Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
 <br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
-<i>Journal of Zhejiang University (Engineering Science).</i>
+<i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
 <br />
 <a href="">[PDF]</a>
 </p>
@@ -75,6 +75,24 @@ Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
 <br><b>An Online Visualization System for Streaming Log Data of Computing Clusters</b><br>
 <i>Tsinghua Science and Technology</i>
 2013, 18(2):196-205<br />
+<a href="">[PDF]</a>
+</p>
+</li>
+
+<li ><p>
+Xing Xu, Cong Xie, Fuli Wu, Jinsong Yang, Wuheng Zuo, SengXiang Yan, and Wei Chen
+<br><b>Web Oriented Medical Image Visualization System</b><br>
+<i>The 16th National Conference on Image and Graphics (NCIG 2012) (In Chinese)</i>
+<br />
+<a href="">[PDF]</a>
+</p>
+</li>
+
+<li ><p>
+Hui Lei, Jiawei Zhang, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
+<br><b>Visualizing Large- Scale Graph Based on Line Integral Convolution</b><br>
+<i>Journal of Computer-Aided Design & Computer Graphics 2013</i>
+25(9) (In Chinese)<br />
 <a href="">[PDF]</a>
 </p>
 </li>
