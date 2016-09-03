@@ -51,3 +51,12 @@ Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
 <a href="">[PDF]</a>
 </p>
 </li>
+
+<li ><p>
+Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
+<br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
+<i>Journal of Zhejiang University (Engineering Science).</i>
+<br />
+<a href="">[PDF]</a>
+</p>
+</li>
