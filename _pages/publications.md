@@ -7,7 +7,7 @@ permalink: /publications.html
 ---
 
 
-<h2 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h2>
+<h3 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h3>
 
 <!-- Item: Pont-Tuset2016a -->
 <li ><p>
@@ -24,7 +24,7 @@ pp. 1465-1478,
 </li>
 
 
-<h1 style="margin-bottom:0px;padding-top:10px;">Other Visualization Publications<h1>
+<h2 style="margin-bottom:0px;padding-top:10px;">Other Visualization Publications<h2>
 <li ><p>
 <a href="http://www.vision.ee.ethz.ch/~kmaninis" target="_blank">K.K. Maninis</a>, J. Pont-Tuset, <a href="https://biomedicalcomputervision.uniandes.edu.co" target="_blank">P. Arbeláez</a> and <a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1" target="_blank">L. Van Gool</a>
 <br><b>Convolutional Oriented Boundaries</b><br>
