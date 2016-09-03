@@ -11,4 +11,4 @@ My research interest is Information Visualization and Visual Analytics.
 
 Email: coxie AT cs DOT stonybrook DOT com
             
-You can also download my [résumé in PDF](https://), or my [full CV](https://).
+You can also download my [full CV](https://).
