@@ -8,7 +8,7 @@ permalink: /projects.html
 
 ### E-commerce Data Visualization
 
-*DataV.js
+<li><br>DataV.js<br><\li>
 DataV.js is an open source Javascript library based on D3.js and Rafael.js. It allows people with no pro- gramming knowledge to visualize their data freely. It is now applied in some websites such as Alipay.com and Taobao Index. I am one of the core algorithm designers and the programmers.
 Source code in GitHub: https://github.com/TBEDP/datavjs
 DataV.js Extension in Chrome Web Store: http://goo.gl/4nOOlX
