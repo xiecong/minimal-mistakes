@@ -1,6 +1,6 @@
 ---
 title: "Bio"
-layout: archive
+layout: single
 excerpt: "Bio"
 sitemap: false
 permalink: /bio.html
