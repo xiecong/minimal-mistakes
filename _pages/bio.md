@@ -5,8 +5,10 @@ excerpt: "Bio"
 sitemap: false
 permalink: /bio.html
 ---
-Hello, I am a graduate student under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in(http://www.cad.zju.edu.cn/english.html/)State Key Lab of CAD&amp;CG</a> at <a href="http://www.cs.zju.edu.cn/chinese/" target="_blank">Department of Computer Science and Technology</a>, <a href="http://www.zju.edu.cn/" target="_blank">Zhejiang University</a>. I received my Bachelor's Degree in Computer Science at <a href="http://en.hhu.edu.cn/" target="_blank">Hohai University</a> in June, 2011.<br> 
-My research interest is <strong>Information Visualization</strong> and <strong>Visual Analytics</strong>.
+Hi, I am Cong Xie. I am a phd student under the supervision of [Prof. Klaus Mueller](http://www3.cs.stonybrook.edu/~mueller/) in [Department of Computer Science](http://www.cs.stonybrook.edu/), [Stony Brook University](http://www.stonybrook.edu/).
+I received master degree in [Zhejiang University](http://www.zju.edu.cn/) in June, 2014, under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/). I received my Bachelor's Degree in Computer Science at [Hohai University](http://en.hhu.edu.cn/) in June, 2011.
+My research interest is Information Visualization and Visual Analytics.
+
 Email: xiecng AT gmail DOT com
             
 You can also download my [résumé in PDF](https://), or my [full CV](https://).
