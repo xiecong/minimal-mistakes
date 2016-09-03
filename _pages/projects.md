@@ -6,7 +6,7 @@ permalink: /projects.html
 ---
 
 ### Business Intellegence Visualization
-* [**Microsoft PowerBI**](http://github.com/Microsoft/PowerBI-visuals-core)
+* [**Microsoft PowerBI**](http://github.com/Microsoft/PowerBI-visuals-core)<br>
 I developed the Enhanced Scatter Plot Chart and Timeline Chart for thr web version of Power BI.
 
 * [**DataV.js**](http://github.com/TBEDP/datavjs)<br>
