@@ -514,10 +514,5 @@ M. Junyent, P. Beltran, M.A. Farr&eacute;, J. Pont-Tuset, A. Chapiro and A. Smol
     {% endif %}
   </article>
 </div><!-- /#index -->
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
 
 </html>
