@@ -33,15 +33,12 @@ Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <h2 style="margin-bottom:0px;padding-top:10px;">Other Visualization Publications</h2>
 
 <li ><p>
-J. Pont-Tuset and <a href="https://imatge.upc.edu/web/ferran" target="_blank">F. Marques</a>
-<br><b>Supervised Evaluation of Image Segmentation and Object Proposal Techniques</b><br>
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>,
-vol. 38,
-no. 7,
-pp. 1465-1478,
-2016.
+
+Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
+<br><b>. IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
+<i>VLDB-DMAH 2016</i>
 <br />
-<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7274729">[PDF]</a>
+<a href="">[PDF]</a>
 </p>
 </li>
 
