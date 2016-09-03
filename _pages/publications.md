@@ -16,7 +16,7 @@ Cong Xie, Wen Zhong, Klaus Mueller
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 <b>(IEEE VAST 2016 Honorable Mention Award)</b>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/vast261_latest.pdf">[PDF]</a>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/file247-6.mp4">[Video]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/video.mp4">[Video]</a>
 </p>
 </li>
 
@@ -26,7 +26,7 @@ Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/vast_paper-261.mp4">[Video]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/file247-6.mp4">[Video]</a>
 </p>
 </li>
 
