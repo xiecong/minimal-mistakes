@@ -1,6 +1,6 @@
 ---
 title: "Publication"
-layout: default
+layout: publications
 excerpt: "Publication"
 sitemap: false
 permalink: /publication.html
