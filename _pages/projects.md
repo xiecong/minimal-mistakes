@@ -14,16 +14,16 @@ Source code in GitHub: https://github.com/TBEDP/datavjs
 DataV.js Extension in Chrome Web Store: http://goo.gl/4nOOlX
 </li>
 
-<br>E-commerce Time-series Explorer</br>
+<li><b>E-commerce Time-series Explorer</b><br>
 In this project I used modified decision tree to explore interesting transactions such as sales promotions and fake transactions. We visualized the detailed information with a novel design inspired by music notes. Feedbacks from the analysts suggested that it was e ective in supporting a variety of analysis tasks.
-
-<br>Dynamic Logistics Visualization</br>
+</li>
+<li><b>Dynamic Logistics Visualization</b><br>
 This is a cooperation project with Taobao.com. I am the algorithm designer and the programmer. In this project I generated a dynamic density map of logistics datasets using Kernel Density Estimation.
-
+</li>
 ### Medical Image Visualization
-<br>Clinic Treatment Volume (CTV) Computation of Glioma</br>
+<li><b>Clinic Treatment Volume (CTV) Computation of Glioma</b><br>
 This is a cooperation project with The First A liated Hospital, Zhejiang University. I am one of the algorithm designers and the programmers. I extended an existing GPU-based parallel Euclidean distance transform method to compute a 3D distance transform for scenes that contain occluders.
-
-<br>Web Oriented Medical Image Visualization System</br>
+</li>
+<li><b>Web Oriented Medical Image Visualization System</b><br>
 This is a research project in my lab. I am one of the algorithm designers and the programmers. I used WebGL to render the volume data in a HTML5-based medical visualization system.
-
+</li>
