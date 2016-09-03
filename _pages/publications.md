@@ -11,8 +11,8 @@ permalink: /publications.html
 
 <!-- Item: Pont-Tuset2016a -->
 <li ><p>
-Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
-<br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
+Cong Xie, Wen Zhong, Klaus Mueller
+<br><b>A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 , 2016 (IEEE VAST 2016 Honorable Mention Award)
 <br />
