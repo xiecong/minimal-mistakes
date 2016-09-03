@@ -43,14 +43,10 @@ Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
 </li>
 
 <li ><p>
-J. Pont-Tuset and <a href="https://imatge.upc.edu/web/ferran" target="_blank">F. Marques</a>
-<br><b>Supervised Evaluation of Image Segmentation and Object Proposal Techniques</b><br>
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>,
-vol. 38,
-no. 7,
-pp. 1465-1478,
-2016.
+Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
+<br><b>Visual Analysis of User-Driven Association Rule Mining</b><br>
+<i>International Symposium on Visual Information Communication and Interaction (VINCI 2016)</i>,
 <br />
-<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7274729">[PDF]</a>
+<a href="">[PDF]</a>
 </p>
 </li>
