@@ -508,11 +508,6 @@ M. Junyent, P. Beltran, M.A. Farr&eacute;, J. Pont-Tuset, A. Chapiro and A. Smol
       </div>
       </li>
       </ul>
-    </div><!-- /.article-wrap -->
-    {% if site.disqus_shortname and page.comments %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
-  </article>
-</div><!-- /#index -->
+    </div>
 
 </html>
