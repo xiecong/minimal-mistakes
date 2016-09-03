@@ -25,19 +25,7 @@ pp. 1465-1478,
 <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7274729">[PDF]</a> <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/seism/index.html">
 [Project Page]</a> 
 </p>
-<div id="bib_Pont-Tuset2016a" class="bibtex noshow">
-<pre>
-@article{Pont-Tuset2016a,
-  author = {Jordi Pont-Tuset and Ferran Marques},
-  title = {Supervised Evaluation of Image Segmentation and Object Proposal Techniques},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
-  year = {2016},
-  volume = {38},
-  number = {7},
-  pages = {1465--1478}
-}
-</pre>
-</div>
+
 </li>
 
 
