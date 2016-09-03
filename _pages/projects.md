@@ -27,3 +27,8 @@ This is a cooperation project with The First A liated Hospital, Zhejiang Univers
 <li><b>Web Oriented Medical Image Visualization System</b><br>
 This is a research project in my lab. I am one of the algorithm designers and the programmers. I used WebGL to render the volume data in a HTML5-based medical visualization system.
 </li>
+
+### Other
+
+<li><b>AVIS</b><br>
+AVIS is a numerical 3D meteorological data visualization system. I am one of the programmers. I visualized the wind vector field using Streamline and Line Integral Convolution (LIC) in this project.
