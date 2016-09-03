@@ -7,7 +7,7 @@ permalink: /publications.html
 ---
 
 
-<h1 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h1>
+<h2 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h2>
 
 <!-- Item: Pont-Tuset2016a -->
 <li ><p>
