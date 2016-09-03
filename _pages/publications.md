@@ -53,8 +53,7 @@ pp. 1465-1478,
 }
 </pre>
 </div>
-</li>  
-      </ul  >
+</li>
 
 
 
@@ -500,4 +499,3 @@ M. Junyent, P. Beltran, M.A. Farr&eacute;, J. Pont-Tuset, A. Chapiro and A. Smol
       </div>
       </li>
 
-</html>
