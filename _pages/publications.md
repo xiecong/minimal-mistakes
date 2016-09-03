@@ -92,7 +92,7 @@ Xing Xu, Cong Xie, Fuli Wu, Jinsong Yang, Wuheng Zuo, SengXiang Yan, and Wei Che
 <br><b>Web Oriented Medical Image Visualization System</b><br>
 <i>The 16th National Conference on Image and Graphics (NCIG 2012) (In Chinese)</i>
 <br />
-<a href="">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Web Oriented Medical Image Visualization System.pdf">[PDF]</a>
 </p>
 </li>
 </li>
