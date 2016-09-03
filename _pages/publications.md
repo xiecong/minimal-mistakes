@@ -14,7 +14,7 @@ permalink: /publications.html
 Cong Xie, Wen Zhong, Klaus Mueller
 <br><b>A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
-, 2016 (IEEE VAST 2016 Honorable Mention Award)
+<b>(IEEE VAST 2016 Honorable Mention Award)<b>
 <br />
 <a href="">[PDF]</a>
 </p>
