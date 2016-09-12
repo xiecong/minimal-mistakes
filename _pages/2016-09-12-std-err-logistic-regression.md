@@ -4,3 +4,14 @@ title: "Z-value, coeficients, and standard error of logistic regression"
 description: "test"
 comments: true
 ---
+The standard errors of the model coefficients are the square roots of the diagonal entries of the covariance matrix. Consider the following:
+
+Design matrix:
+X = ⎡⎣⎢⎢⎢⎢⎢11⋮1x1,1x2,1⋮xn,1……⋱…x1,px2,p⋮xn,p⎤⎦⎥⎥⎥⎥⎥X = [1x1,1…x1,p1x2,1…x2,p⋮⋮⋱⋮1xn,1…xn,p] , where xi,jxi,j is the value of the jjth predictor for the iith observations.
+
+(NOTE: This assumes a model with an intercept.)
+
+V = ⎡⎣⎢⎢⎢⎢π̂ 1(1−π̂ 1)0⋮00π̂ 2(1−π̂ 2)⋮0……⋱…00⋮π̂ n(1−π̂ n)⎤⎦⎥⎥⎥⎥V = [π^1(1−π^1)0…00π^2(1−π^2)…0⋮⋮⋱⋮00…π^n(1−π^n)] , where π̂ iπ^i represents the predicted probability of class membership for observation ii.
+The covariance matrix can be written as:
+
+(XTVX)−1
