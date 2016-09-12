@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Z-value, coeficients, and standard error of logistic regression"
+description: "test"
+comments: true
+---
