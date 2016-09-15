@@ -9,4 +9,4 @@ My research interest is Data Visualization and Visual Analytics.
 
 Email: coxie AT cs DOT stonybrook DOT com
             
-You can also download my [full CV](https://www3.cs.stonybrook.edu/~coxie/homepage_files/CV_Cong.pdf).
+You can also download my [full CV](http://www3.cs.stonybrook.edu/~coxie/homepage_files/CV_Cong.pdf).
