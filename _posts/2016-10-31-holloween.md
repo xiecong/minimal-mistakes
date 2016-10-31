@@ -53,4 +53,3 @@ If you don't have time to make arms, remember to wear a green cloth for zombie a
 ### Step 7: let's party!
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/7-1.JPG)
-![](http://www3.cs.stonybrook.edu/~coxie/holloween/7-2.jpg)
