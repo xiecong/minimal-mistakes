@@ -28,6 +28,8 @@ Use a small one as your head, and a big one as your body.
 Carve the boxes. If your small box is not cubic, try to make it into a cube using knife and tape.
 For the body, we unfold the large box and carve it for your neck and arms.
 
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/2.jpg)
+
 ### Step 3: color your costume
 You can use white paper to cover the box if your box have color itself.
 
