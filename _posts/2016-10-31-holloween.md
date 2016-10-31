@@ -12,8 +12,7 @@ We have a lots of boxes since my girl friend bought a lot of stuff from Amazon. 
 2. Acrylic paint & brushes
 3. Glue, tape, and knife
 
-![](http://www3.cs.stonybrook.edu/~coxie/holloween/1-1.jpg)
-![](http://www3.cs.stonybrook.edu/~coxie/holloween/1-2.jpg)
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/1-1.jpg)![](http://www3.cs.stonybrook.edu/~coxie/holloween/1-2.jpg)
 
 You can get all of these from walmart.
 
