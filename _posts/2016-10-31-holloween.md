@@ -11,7 +11,6 @@ We have a lots of boxes since my girl friend bought a lot of stuff from Amazon. 
 
 ### Here is what you need:
 1. Paper boxes
-  * Use a small one as head, and a big one as body
 2. Acrylic paint & brushes
 3. Glue, tape, and knife
 
@@ -21,11 +20,13 @@ You can get all of these from walmart.
 
 ### Step 1: choose your boxes.
 Select the right boxes for your head and body.
+Use a small one as your head, and a big one as your body.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/2-1.jpg)
 
 ### Step 2: making your head and body
-Carve the boxes.
+Carve the boxes. If your small box is not cubic, try to make it into a cube using knife and tape.
+For the body, we unfold the large box and carve it for your neck and arms.
 
 ### Step 3: color your costume
 You can use white paper to cover the box if your box have color itself.
