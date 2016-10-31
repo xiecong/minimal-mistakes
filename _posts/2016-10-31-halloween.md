@@ -1,12 +1,12 @@
 ---
 layout: single
 title: "Homemade Minecraft Costume for Halloween"
-description: "test"
+description: "We DIY our Minecraft costume this year!"
 comments: true
 ---
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/7-1.JPG)
 
-We have a lots of boxes since my girl friend bought many stuffs from Amazon. Why not use it for our costumes this halloween?
+We have lots of boxes since my girlfriend bought much stuff from Amazon. Why not use it for our costumes this Halloween?
 
 
 ### Here is what you need:
@@ -16,7 +16,7 @@ We have a lots of boxes since my girl friend bought many stuffs from Amazon. Why
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/1-1.jpg)![](http://www3.cs.stonybrook.edu/~coxie/holloween/1-2.jpg)
 
-You can get all of these from walmart.
+You can get all of these from Wal-Mart.
 
 ### Step 1: choose your boxes.
 Select the right boxes for your head and body.
@@ -35,7 +35,7 @@ You may want to cover you boxes with white paper first, since some boxes are mad
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-1.jpg)
 
-I made Steve for myself and zombie for my girlfrind :P
+I made Steve for myself and zombie for my girlfriend  :P
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-2.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-4.jpg)
@@ -62,7 +62,7 @@ Wear the box and then glue it. If your box is much larger for your body, you can
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/6-1.jpg)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/6-2.jpg)
 
-If you don't have time to make arms, remember to wear a green cloth for zombie and blue one for steve.
+If you don't have time to make arms, remember to wear a green cloth for zombie and blue one for Steve.
 
 ### Step 6: let's party!
 Happy Halloween! We found kids in the party love it very much.
