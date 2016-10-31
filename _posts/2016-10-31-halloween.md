@@ -25,13 +25,13 @@ Use a small one as your head, and a big one as your body.
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/2-1.jpg)
 
 ### Step 2: making your head and body
-Carve the boxes. If your small box is not cubic, try to make it into a cube using knife and tape.
+If your small box for the head is not cubic, try to make it into a cube using knife and tape.
 For the body, we unfold the large box and carve it for your neck and arms.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/2-2.jpg)
 
 ### Step 3: color your costume
-You may want to cover you boxes with white paper first.
+You may want to cover you boxes with white paper first, since some boxes are made from oil paper.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-1.jpg)
 
@@ -42,6 +42,8 @@ I made Steve for myself and zombie for my girlfrind:)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-4.jpg)
 
 Do not forget to carve your eyes after drawing them.
+
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/5-2.jpg)
 For pixel-style, try to paint a box with one solid color first. Then paint tiles with random similar color on it. 
 
 ### Step 4: making tools
@@ -51,12 +53,10 @@ For the tools such as sword and axe, you can draw the shape first, then cut it.
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/4-2.jpg)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/4-3.jpg)
 
-### Step 5: wait until your paint dry
+### Step 5: glue them and try on
+Wait until your paint dry
 You can use hair dryer or paper towel to make your paint dry faster.
 
-![](http://www3.cs.stonybrook.edu/~coxie/holloween/5-2.jpg)
-
-### Step 6: glue them and try on
 Wear the box and then glue it. If your box is much larger for your body, you can also glue it first then wear it.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/6-1.jpg)
@@ -64,7 +64,7 @@ Wear the box and then glue it. If your box is much larger for your body, you can
 
 If you don't have time to make arms, remember to wear a green cloth for zombie and blue one for steve.
 
-### Step 7: let's party!
+### Step 6: let's party!
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/7-3.jpg)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/7-4.jpg)
