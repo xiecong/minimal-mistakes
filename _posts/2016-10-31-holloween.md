@@ -28,8 +28,8 @@ Carve the boxes.
 You can use white paper to cover the box if your box have color itself.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-1.jpg)
-![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-2.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-3.JPG)
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-2.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-4.jpg)
 
 ### Step 4: making tools
