@@ -37,12 +37,12 @@ You may want to cover you boxes with white paper first, since some boxes are mad
 
 I made Steve for myself and zombie for my girlfrind:)
 
-![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-3.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-2.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-4.jpg)
 
 Do not forget to carve your eyes after drawing them.
 
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-3.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/5-2.jpg)
 
 For pixel-style, try to paint a box with one solid color first. Then paint tiles with random similar color on it. 
