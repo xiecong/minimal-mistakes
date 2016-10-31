@@ -44,18 +44,18 @@ I made Steve for myself and zombie for my girlfrind:)
 Do not forget to carve your eyes after drawing them.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/5-2.jpg)
+
 For pixel-style, try to paint a box with one solid color first. Then paint tiles with random similar color on it. 
 
 ### Step 4: making tools
-For the tools such as sword and axe, you can draw the shape first, then cut it.
+For tools such as sword and axe, you can draw the shape first. I made several copies and glue them together to make it thick.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/4-1.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/4-2.jpg)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/4-3.jpg)
 
 ### Step 5: glue them and try on
-Wait until your paint dry
-You can use hair dryer or paper towel to make your paint dry faster.
+Wait until your paint is dry. You can use hair dryer or paper towel to make your paint dry faster.
 
 Wear the box and then glue it. If your box is much larger for your body, you can also glue it first then wear it.
 
