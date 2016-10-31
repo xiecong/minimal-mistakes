@@ -18,12 +18,17 @@ You can get all of these from walmart.
 
 ### Step 1: choose your boxes.
 Select the right boxes for your head and body. 
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/2-1.jpg)
 
 ### Step 2: making your head and body
 Carve the boxes.
 
 ### Step 3: color your costume
 You can use white paper to cover the box if your box have color itself.
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-1.jpg)
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-2.jpg)
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-3.jpg)
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-4.jpg)
 
 ### Step 4: making tools
 For the tools such as sword and axe, you can draw the shape first, then cut it.
