@@ -35,7 +35,7 @@ You may want to cover you boxes with white paper first, since some boxes are mad
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-1.jpg)
 
-I made Steve for myself and zombie for my girlfrind:)
+I made Steve for myself and zombie for my girlfrind :P
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-2.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-4.jpg)
