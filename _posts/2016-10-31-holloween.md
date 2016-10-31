@@ -8,7 +8,7 @@ We have a lots of boxes since my girl friend bought a lot of stuff from Amazon. 
 
 #### Here is what you need:
 1. Paper boxes
-⋅⋅* Use a small one as head, and a big one as body
+  * Use a small one as head, and a big one as body
 2. Acrylic paint & brushes
 3. Glue, tape, and knife
 
