@@ -65,6 +65,7 @@ Wear the box and then glue it. If your box is much larger for your body, you can
 If you don't have time to make arms, remember to wear a green cloth for zombie and blue one for steve.
 
 ### Step 6: let's party!
+Happy Halloween! We found kids in the party love it very much.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/7-3.jpg)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/7-4.jpg)
