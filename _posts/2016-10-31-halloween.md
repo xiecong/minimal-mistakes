@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Homemade Minecraft Costume for Holloween"
+title: "Homemade Minecraft Costume for Halloween"
 description: "test"
 comments: true
 ---
