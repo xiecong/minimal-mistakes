@@ -31,12 +31,14 @@ For the body, we unfold the large box and carve it for your neck and arms.
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/2-2.jpg)
 
 ### Step 3: color your costume
-You can use white paper to cover the box if your box have color itself.
+If you cannot cover the color of the box using your paint, cover it with glue and white paper first.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-1.jpg)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-3.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-2.JPG)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-4.jpg)
+
+For pixel-style, try to paint a box with one solid color first. Then paint tiles with random similar color on it. 
 
 ### Step 4: making tools
 For the tools such as sword and axe, you can draw the shape first, then cut it.
@@ -51,10 +53,12 @@ You can use hair dryer or paper towel to make your paint dry faster.
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/5-2.jpg)
 
 ### Step 6: glue them and try on
-If you don't have time to make arms, remember to wear a green cloth for zombie and blue one for steve.
+Wear the box and then glue it. If your box is much larger for your body, you can also glue it first then wear it.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/6-1.jpg)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/6-2.jpg)
+
+If you don't have time to make arms, remember to wear a green cloth for zombie and blue one for steve.
 
 ### Step 7: let's party!
 
