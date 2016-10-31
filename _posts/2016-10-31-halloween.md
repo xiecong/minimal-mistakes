@@ -6,7 +6,7 @@ comments: true
 ---
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/7-1.JPG)
 
-We have a lots of boxes since my girl friend bought a lot of stuff from Amazon. Why not use it for our costumes this holloween?
+We have a lots of boxes since my girl friend bought a lot of stuff from Amazon. Why not use it for our costumes this halloween?
 
 
 ### Here is what you need:
