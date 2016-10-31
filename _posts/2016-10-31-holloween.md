@@ -17,7 +17,8 @@ We have a lots of boxes since my girl friend bought a lot of stuff from Amazon. 
 You can get all of these from walmart.
 
 ### Step 1: choose your boxes.
-Select the right boxes for your head and body. 
+Select the right boxes for your head and body.
+
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/2-1.jpg)
 
 ### Step 2: making your head and body
