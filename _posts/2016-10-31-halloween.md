@@ -31,7 +31,7 @@ For the body, we unfold the large box and carve it for your neck and arms.
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/2-2.jpg)
 
 ### Step 3: color your costume
-If you cannot cover the color of the box using your paint, cover it with glue and white paper first.
+If you cannot cover the color of the box using your paint, cover it with white paper first.
 
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-1.jpg)
 ![](http://www3.cs.stonybrook.edu/~coxie/holloween/3-3.JPG)
