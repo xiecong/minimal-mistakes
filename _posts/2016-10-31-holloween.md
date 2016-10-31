@@ -11,7 +11,10 @@ We have a lots of boxes since my girl friend bought a lot of stuff from Amazon. 
   * Use a small one as head, and a big one as body
 2. Acrylic paint & brushes
 3. Glue, tape, and knife
-![ ](http://www3.cs.stonybrook.edu/~coxie/holloween/1-1.jpg)
+
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/1-1.jpg)
+![](http://www3.cs.stonybrook.edu/~coxie/holloween/1-2.jpg)
+
 You can get all of these from walmart.
 
 ### Step 1: choose your boxes.
