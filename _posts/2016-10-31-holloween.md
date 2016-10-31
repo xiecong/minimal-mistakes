@@ -22,9 +22,12 @@ Carve the boxes.
 For the tools such as sword and axe, you can draw the shape first, then cut it.
 
 ### Step 4: color your costume
+You can use white paper to cover the box if your box have color itself.
 
 ### Step 5: wait until your paint dry
+You can use hair dryer or paper towel to make your paint dry faster.
 
 ### Step 6: glue them and try on
+If you don't have time to make arms, remember to wear a green cloth for zombie and blue one for steve.
 
 ### Step 7: let's party!
