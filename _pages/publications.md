@@ -45,9 +45,14 @@ Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
 Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
 <br><b>Visual Analysis of User-Driven Association Rule Mining</b><br>
 <i>International Symposium on Visual Information Communication and Interaction (VINCI 2016)</i>
-(Corresponding author)
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association_v2.mp4">[Video]</a>
+</p>
+</li>
+<li ><p>
+DanFang Yan, SenXiang Yan , ZhongJie Lu, Cong Xie, Wei Chen, et al.
+<br><b>Postoperative radiotherapy for glioma: Improved delineation of the clinical target volume using the geodesic distance calculation</b><br>
+<i>PLoS ONE</i>
 </p>
 </li>
 
