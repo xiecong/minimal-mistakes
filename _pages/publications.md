@@ -28,7 +28,7 @@ vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/file247-6.mp4">[Video]</a>
 </li>
 </p>
-<h2 style="margin-bottom:0px;padding-top:10px;">Other Visualization Publications</h2>
+<h2 style="margin-bottom:0px;padding-top:10px;">Other Publications</h2>
 
 <li >
 Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
