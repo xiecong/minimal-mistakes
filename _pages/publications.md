@@ -10,35 +10,32 @@ permalink: /publications.html
 <h2 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h2>
 
 <!-- Item: Pont-Tuset2016a -->
-<li ><p>
+<li >
 Cong Xie, Wen Zhong, Klaus Mueller
 <br><b>A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 <b>(IEEE VAST 2016 Honorable Mention Award)</b>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/vast261_latest.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/video.mp4">[Video]</a>
-</p>
+
 </li>
 
-<li ><p>
+<li >
 Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/file247-6.mp4">[Video]</a>
-</p>
 </li>
 
 <h2 style="margin-bottom:0px;padding-top:10px;">Other Visualization Publications</h2>
 
-<li ><p>
-
+<li >
 Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
 <br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
 <i>VLDB-DMAH 2016</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
-</p>
 </li>
 
 <li ><p>
@@ -49,11 +46,10 @@ Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association_v2.mp4">[Video]</a>
 </p>
 </li>
-<li ><p>
+<li >
 DanFang Yan, SenXiang Yan , ZhongJie Lu, Cong Xie, Wei Chen, et al.
 <br><b>Postoperative radiotherapy for glioma: Improved delineation of the clinical target volume using the geodesic distance calculation</b><br>
-<i>PLoS ONE</i>
-</p>
+<i>PLoS ONE 2014</i>
 </li>
 
 <li ><p>
