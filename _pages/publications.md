@@ -27,7 +27,7 @@ vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/file247-6.mp4">[Video]</a>
 </li>
-
+</p>
 <h2 style="margin-bottom:0px;padding-top:10px;">Other Visualization Publications</h2>
 
 <li >
@@ -44,11 +44,13 @@ Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association_v2.mp4">[Video]</a>
 </li>
+</p>
 <p>
 <li >DanFang Yan, SenXiang Yan , ZhongJie Lu, Cong Xie, Wei Chen, et al.
 <br><b>Postoperative radiotherapy for glioma: Improved delineation of the clinical target volume using the geodesic distance calculation</b><br>
 <i>PLoS ONE 2014</i>
 </li>
+</p>
 <p>
 <li >
 Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
@@ -56,6 +58,7 @@ Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei C
 <i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/3DPBA.pdf">[PDF]</a>
 </li>
+</p>
 <p>
 <li >
 Guizhen Wang, Chaokai Wen, Binghui Yan, Cong Xie, Ronghua Liang and Wei Chen
@@ -63,6 +66,7 @@ Guizhen Wang, Chaokai Wen, Binghui Yan, Cong Xie, Ronghua Liang and Wei Chen
 <i>Science China Information Sciences</i>
 May 2013, Volume 56, Issue 5, pp 1-14.
 </li>
+</p>
 <p>
 <li >
 Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
@@ -71,6 +75,7 @@ Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
 2013, 18(2):196-205
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/stream.pdf">[PDF]</a>
 </li>
+</p>
 <p>
 <li >
 Hui Lei, Jiawei Zhang, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
@@ -78,6 +83,7 @@ Hui Lei, Jiawei Zhang, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
 <i>Journal of Computer-Aided Design & Computer Graphics 2013</i>
 25(9) (In Chinese)
 </li>
+</p>
 <p>
 <li >
 Xing Xu, Cong Xie, Fuli Wu, Jinsong Yang, Wuheng Zuo, SengXiang Yan, and Wei Chen
@@ -85,3 +91,4 @@ Xing Xu, Cong Xie, Fuli Wu, Jinsong Yang, Wuheng Zuo, SengXiang Yan, and Wei Che
 <i>The 16th National Conference on Image and Graphics (NCIG 2012) (In Chinese)</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Web.pdf">[PDF]</a>
 </li>
+</p>
