@@ -38,42 +38,39 @@ Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
 </li>
 
-<li ><p>
+<li >
 Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
 <br><b>Visual Analysis of User-Driven Association Rule Mining</b><br>
 <i>International Symposium on Visual Information Communication and Interaction (VINCI 2016)</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association_v2.mp4">[Video]</a>
-</p>
 </li>
-<li >
-DanFang Yan, SenXiang Yan , ZhongJie Lu, Cong Xie, Wei Chen, et al.
+
+<li >DanFang Yan, SenXiang Yan , ZhongJie Lu, Cong Xie, Wei Chen, et al.
 <br><b>Postoperative radiotherapy for glioma: Improved delineation of the clinical target volume using the geodesic distance calculation</b><br>
 <i>PLoS ONE 2014</i>
 </li>
 
-<li ><p>
+<li >
 Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
 <br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
 <i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/3DPBA.pdf">[PDF]</a>
-</p>
 </li>
 
-<li ><p>
+<li >
 Guizhen Wang, Chaokai Wen, Binghui Yan, Cong Xie, Ronghua Liang and Wei Chen
 <br><b>Topic Hypergraph: Hierarchical Visualization of Thematic Structures in Long Documents</b><br>
 <i>Science China Information Sciences</i>
-May 2013, Volume 56, Issue 5, pp 1-14.</p>
+May 2013, Volume 56, Issue 5, pp 1-14.
 </li>
 
-<li ><p>
+<li >
 Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
 <br><b>An Online Visualization System for Streaming Log Data of Computing Clusters</b><br>
 <i>Tsinghua Science and Technology</i>
 2013, 18(2):196-205
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/stream.pdf">[PDF]</a>
-</p>
 </li>
 
 <li ><p>
@@ -83,11 +80,10 @@ Hui Lei, Jiawei Zhang, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
 25(9) (In Chinese)
 </p>
 
-<li ><p>
+<li >
 Xing Xu, Cong Xie, Fuli Wu, Jinsong Yang, Wuheng Zuo, SengXiang Yan, and Wei Chen
 <br><b>Web Oriented Medical Image Visualization System</b><br>
 <i>The 16th National Conference on Image and Graphics (NCIG 2012) (In Chinese)</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Web.pdf">[PDF]</a>
-</p>
 </li>
 </li>
