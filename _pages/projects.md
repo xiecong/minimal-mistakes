@@ -6,9 +6,17 @@ author_profile: true
 permalink: /projects.html
 ---
 
-### Business Intellegence Visualization
+* **Hypergraph Learning on Heterogeneous Data**<br>
+&A classification algorithm on heterogeneous data using hypergraph model, which represents higher order relationships than the traditional graph-based models. This algorithm was applied on the public health datasets and census datasets of New York state. I was the main algorithm designer and programmer.
+
+* **Evolutionary Analysis of Deep Neural Networks**<br> 
+&A neural network analysis system which was able to evaluate the intermediate layers. Two metrics were proposed for diagnosis of the network (e.g., detecting overfitting and underfitting). I was one of the core algorithm designers and the programmers. 
+
+* **Joint Distribution Reconstruction of New York Health Data**<br>
+&An algorithm to reconstruct the complete patient data from partial information from New York Statewide Planning and Research Cooperative System. A Markov Chain Monte Carlo sampling approach was used to uniformly sample the high-dimensional solution space of reconstruction. I was the main algorithm designer and programmer.
+
 * [**Microsoft PowerBI**](http://github.com/Microsoft/PowerBI-visuals-core)<br>
-Power BI is visualization tool based on D3.js.
+& A business intelligence tool based on D3.js. 
 I developed the Enhanced Scatter Plot Chart and Timeline Chart for the web version of Power BI.
 
 * [**DataV.js**](http://github.com/TBEDP/datavjs)<br>
@@ -16,16 +24,8 @@ DataV.js is an open source Javascript library based on D3.js and Rafael.js. It a
 It is now applied in some websites such as [Alipay](http://www.alipay.com/) and [Taobao Index](http://shu.taobao.com/). 
 There is also a DataV.js [Extension](http://goo.gl/4nOOlX) in Chrome Web Store. 
 
-* **E-commerce Time-series Explorer**<br>
-In this project I used modified decision tree to explore interesting transactions such as sales promotions and fake transactions. We visualized the detailed information with a novel design inspired by music notes. Feedbacks from the analysts suggested that it was e ective in supporting a variety of analysis tasks.
+* **Detecting fake transactions in online sales data of Alibaba.com**<br>
+&A system for detecting fake transactions, which are made by the users who wants to increase their sales rankings. A modified decision tree was employed in our algorithm. I was the main algorithm designer and programmer.
 
-* **Dynamic Logistics Visualization**<br>
-This is a cooperation project with Taobao.com. I am the algorithm designer and the programmer. In this project I generated a dynamic density map of logistics datasets using Kernel Density Estimation.
-
-### Scientific Visualization
-* **Clinic Treatment Volume (CTV) Computation of Glioma** <br>
-This is a cooperation project with The First A liated Hospital, Zhejiang University. I am one of the algorithm designers and the programmers. I extended an existing GPU-based parallel Euclidean distance transform method to compute a 3D distance transform for scenes that contain occluders.
-
-
-* **AVIS** <br>
-AVIS is a numerical 3D meteorological data visualization system. I am one of the programmers. I visualized the wind vector field using Streamline and Line Integral Convolution (LIC) in this project.
+* **Clinic Treatment Volume Computation of Glioma**<br>
+&A cooperation project with The First Affiliated Hospital, Zhejiang University. We used GPU-based parallel Euclidean distance transform method CTV computation of Glioma. I was one of the algorithm designers and the programmers.
