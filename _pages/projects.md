@@ -8,6 +8,7 @@ permalink: /projects.html
 
 * **Hypergraph Learning on Heterogeneous Data**<br>
 A classification algorithm on heterogeneous data using hypergraph model, which represents higher order relationships than the traditional graph-based models. This algorithm was applied on the public health datasets and census datasets of New York state. I was the main algorithm designer and programmer.
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/videodemo.mp4">[Video]</a>
 
 * **Evolutionary Analysis of Deep Neural Networks**<br> 
 A neural network analysis system which was able to evaluate the intermediate layers. Two metrics were proposed for diagnosis of the network (e.g., detecting overfitting and underfitting). I was one of the core algorithm designers and the programmers. 
