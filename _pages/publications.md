@@ -7,7 +7,7 @@ permalink: /publications.html
 ---
 
 
-<h2 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h2>
+<h2 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h2>
 
 <!-- Item: Pont-Tuset2016a -->
 <li >
@@ -28,27 +28,32 @@ vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/file247-6.mp4">[Video]</a>
 </li>
 </p>
-<h2 style="margin-bottom:0px;padding-top:10px;">Other Publications</h2>
-
-<li >
-Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
-<br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
-<i>VLDB-DMAH 2016</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
-</li>
 <p>
 <li >
-Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
+Wei Chen, Cong Xie, Pingping Shang, Qunsheng Peng. 
 <br><b>Visual Analysis of User-Driven Association Rule Mining</b><br>
-<i>International Symposium on Visual Information Communication and Interaction (VINCI 2016)</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association.pdf">[PDF]</a>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association_v2.mp4">[Video]</a>
+<i>Journal of Visual Languages & Computing, 2017.</i>
 </li>
 </p>
 <p>
 <li >DanFang Yan, SenXiang Yan , ZhongJie Lu, Cong Xie, Wei Chen, et al.
 <br><b>Postoperative radiotherapy for glioma: Improved delineation of the clinical target volume using the geodesic distance calculation</b><br>
 <i>PLoS ONE 2014</i>
+</li>
+</p>
+
+<h2 style="margin-bottom:0px;padding-top:10px;">Conference Publications</h2>
+<li >
+Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, and Klaus Mueller.
+<br><b>Evolutionary Visual Analysis of Deep Neural Networks. </b><br>
+<i>2017 ICML Workshop on Visualization for Deep Learning.</i>
+</li>
+<p>
+<li >
+Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
+<br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
+<i>VLDB-DMAH 2016</i>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
 </li>
 </p>
 <p>
