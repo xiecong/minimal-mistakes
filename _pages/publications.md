@@ -47,6 +47,8 @@ Wei Chen, Cong Xie, Pingping Shang, Qunsheng Peng.
 Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, and Klaus Mueller.
 <br><b>Evolutionary Visual Analysis of Deep Neural Networks. </b><br>
 <i>2017 ICML Workshop on Visualization for Deep Learning.</i>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/example_paper.pdf">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/DeepView.mp4">[Video]</a>
 </li>
 <p>
 <li >
