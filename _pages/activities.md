@@ -5,7 +5,8 @@ excerpt: "Activities"
 author_profile: true
 permalink: /activities.html
 ---
+* Join panel "Brainstorming on deep learning visualization tools" at ICML 2017 Workshop on Visualization for Deep Learning, Sydney, Australia. <br> August 2017.
 
-* Presented paper "VAET: A Visual Analytics Approach for E-Transactions Time-Series" at IEEE VIS 2014, Paris, France. <br> November 2014.
+* Intern at [Brookhaven National Lab](https://www.bnl.gov/). Worked on high performance computing and hypergraph learning on heterogeneous data. <br> May 2017 - August 2017.
 
-* Intern at [Data Visualization Lab](http://datavlab.org/) of [Data Productization Department](http://www.tbdata.org/about-us#jobs) (eDP). I mainly worked on E-commerce visualization for transaction datasets. <br> May 2012 - December 2012.
+* Intern at Taobao [Data Productization Department](http://www.tbdata.org/about-us#jobs) of Alibaba.com. Worked on detecting fake transactions in online customer-to-customer sales data. <br> May 2012 - December 2012.
