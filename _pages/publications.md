@@ -65,7 +65,7 @@ vol.20, no. 12, pp. 1743-1752, Dec. 2014
 </li>
 </p>
 
-<h2 style="margin-bottom:0px;padding-top:10px;">Before 2014</h2>
+<h2 style="margin-bottom:0px;padding-top:10px;">2013</h2>
 
 <li >
 Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
