@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Selected Publications"
 layout: single
 excerpt: "Publications"
 author_profile: true
