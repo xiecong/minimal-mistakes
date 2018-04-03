@@ -11,6 +11,13 @@ permalink: /publications.html
 
 <!-- Item: Pont-Tuset2016a -->
 <li >
+Cong Xie, Wen Zhong, Wei Xu, Klaus Mueller
+<br><b>Visual Analytics of Heterogeneous Data using Hypergraph Learning</b><br>
+<i>ACM Transactions on Intelligent Systems and Technology</i>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/va-heterogeneous-data.pdf">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/hypergraph_video_demo.mp4">[Video]</a>
+</li>
+<li >
 Cong Xie, Wen Zhong, Klaus Mueller
 <br><b>A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
