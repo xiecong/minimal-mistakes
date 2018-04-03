@@ -26,7 +26,7 @@ Cong Xie, Wen Zhong, Klaus Mueller
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/vast261_latest.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/video.mp4">[Video]</a>
 </li>
-<p>
+</p>
 <li >
 Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
@@ -47,31 +47,6 @@ Wei Chen, Cong Xie, Pingping Shang, Qunsheng Peng.
 <li >DanFang Yan, SenXiang Yan , ZhongJie Lu, Cong Xie, Wei Chen, et al.
 <br><b>Postoperative radiotherapy for glioma: Improved delineation of the clinical target volume using the geodesic distance calculation</b><br>
 <i>PLoS ONE 2014</i>
-</li>
-</p>
-
-<h2 style="margin-bottom:0px;padding-top:10px;">Conference Publications</h2>
-<li >
-Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, and Klaus Mueller.
-<br><b>Evolutionary Visual Analysis of Deep Neural Networks. </b><br>
-<i>2017 ICML Workshop on Visualization for Deep Learning.</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/example_paper.pdf">[PDF]</a>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/DeepView.mp4">[Video]</a>
-</li>
-<p>
-<li >
-Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
-<br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
-<i>VLDB-DMAH 2016</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
-</li>
-</p>
-<p>
-<li >
-Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
-<br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
-<i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/3DPBA.pdf">[PDF]</a>
 </li>
 </p>
 <p>
@@ -100,10 +75,27 @@ Hui Lei, Jiawei Zhang, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
 </li>
 </p>
 <p>
+<h2 style="margin-bottom:0px;padding-top:10px;">Conference Publications</h2>
 <li >
-Xing Xu, Cong Xie, Fuli Wu, Jinsong Yang, Wuheng Zuo, SengXiang Yan, and Wei Chen
-<br><b>Web Oriented Medical Image Visualization System</b><br>
-<i>The 16th National Conference on Image and Graphics (NCIG 2012) (In Chinese)</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Web.pdf">[PDF]</a>
+Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, and Klaus Mueller.
+<br><b>Evolutionary Visual Analysis of Deep Neural Networks. </b><br>
+<i>2017 ICML Workshop on Visualization for Deep Learning.</i>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/example_paper.pdf">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/DeepView.mp4">[Video]</a>
+</li>
+<p>
+<li >
+Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
+<br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
+<i>VLDB-DMAH 2016</i>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
+</li>
+</p>
+<p>
+<li >
+Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
+<br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
+<i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/3DPBA.pdf">[PDF]</a>
 </li>
 </p>
