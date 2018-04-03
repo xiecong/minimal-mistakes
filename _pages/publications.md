@@ -17,6 +17,7 @@ Cong Xie, Wen Zhong, Wei Xu, Klaus Mueller
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/va-heterogeneous-data.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/hypergraph_video_demo.mp4">[Video]</a>
 </li>
+<p>
 <li >
 Cong Xie, Wen Zhong, Klaus Mueller
 <br><b>A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections</b><br>
