@@ -7,9 +7,7 @@ permalink: /publications.html
 ---
 
 
-<h2 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h2>
-
-<!-- Item: Pont-Tuset2016a -->
+<h2 style="margin-bottom:0px;padding-top:10px;">2018</h2>
 <li >
 Cong Xie, Wen Zhong, Wei Xu, Klaus Mueller
 <br><b>Visual Analytics of Heterogeneous Data using Hypergraph Learning</b><br>
@@ -17,7 +15,22 @@ Cong Xie, Wen Zhong, Wei Xu, Klaus Mueller
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/va-heterogeneous-data.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/hypergraph_video_demo.mp4">[Video]</a>
 </li>
+<h2 style="margin-bottom:0px;padding-top:10px;">2017</h2>
+<li >
+Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, and Klaus Mueller.
+<br><b>Evolutionary Visual Analysis of Deep Neural Networks. </b><br>
+<i>2017 ICML Workshop on Visualization for Deep Learning.</i>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/example_paper.pdf">[PDF]</a>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/DeepView.mp4">[Video]</a>
+</li>
 <p>
+<li >
+Wei Chen, Cong Xie, Pingping Shang, Qunsheng Peng. 
+<br><b>Visual Analysis of User-Driven Association Rule Mining</b><br>
+<i>Journal of Visual Languages & Computing, 2017.</i>
+</li>
+</p>
+<h2 style="margin-bottom:0px;padding-top:10px;">2016</h2>
 <li >
 Cong Xie, Wen Zhong, Klaus Mueller
 <br><b>A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections</b><br>
@@ -26,7 +39,15 @@ Cong Xie, Wen Zhong, Klaus Mueller
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/vast261_latest.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/video.mp4">[Video]</a>
 </li>
-</p>
+
+<li >
+Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
+<br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
+<i>VLDB-DMAH 2016</i>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
+</li>
+
+<h2 style="margin-bottom:0px;padding-top:10px;">2014</h2>
 <li >
 Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
@@ -35,28 +56,28 @@ vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/file247-6.mp4">[Video]</a>
 </li>
-</p>
-<p>
-<li >
-Wei Chen, Cong Xie, Pingping Shang, Qunsheng Peng. 
-<br><b>Visual Analysis of User-Driven Association Rule Mining</b><br>
-<i>Journal of Visual Languages & Computing, 2017.</i>
-</li>
-</p>
+
 <p>
 <li >DanFang Yan, SenXiang Yan , ZhongJie Lu, Cong Xie, Wei Chen, et al.
 <br><b>Postoperative radiotherapy for glioma: Improved delineation of the clinical target volume using the geodesic distance calculation</b><br>
 <i>PLoS ONE 2014</i>
 </li>
 </p>
-<p>
+
+<h2 style="margin-bottom:0px;padding-top:10px;">Before 2014</h2>
+
+<li >
+Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
+<br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
+<i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
+<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/3DPBA.pdf">[PDF]</a>
+</li>
 <li >
 Guizhen Wang, Chaokai Wen, Binghui Yan, Cong Xie, Ronghua Liang and Wei Chen
 <br><b>Topic Hypergraph: Hierarchical Visualization of Thematic Structures in Long Documents</b><br>
 <i>Science China Information Sciences</i>
 May 2013, Volume 56, Issue 5, pp 1-14.
 </li>
-</p>
 <p>
 <li >
 Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
@@ -72,30 +93,5 @@ Hui Lei, Jiawei Zhang, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
 <br><b>Visualizing Large- Scale Graph Based on Line Integral Convolution</b><br>
 <i>Journal of Computer-Aided Design & Computer Graphics 2013</i>
 25(9) (In Chinese)
-</li>
-</p>
-<p>
-<h2 style="margin-bottom:0px;padding-top:10px;">Conference Publications</h2>
-<li >
-Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, and Klaus Mueller.
-<br><b>Evolutionary Visual Analysis of Deep Neural Networks. </b><br>
-<i>2017 ICML Workshop on Visualization for Deep Learning.</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/example_paper.pdf">[PDF]</a>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/DeepView.mp4">[Video]</a>
-</li>
-<p>
-<li >
-Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
-<br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
-<i>VLDB-DMAH 2016</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
-</li>
-</p>
-<p>
-<li >
-Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
-<br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
-<i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/3DPBA.pdf">[PDF]</a>
 </li>
 </p>
