@@ -6,6 +6,7 @@ author_profile: true
 permalink: /publications.html
 ---
 
+<a href="https://scholar.google.com/citations?user=DyabMZwAAAAJ&hl=en">Google Scholar</a>
 
 <h2 style="margin-bottom:0px;padding-top:10px;">2018</h2>
 <li >
@@ -19,7 +20,7 @@ Cong Xie, Wen Zhong, Wei Xu, Klaus Mueller
 <li >
 Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, and Klaus Mueller.
 <br><b>Evolutionary Visual Analysis of Deep Neural Networks. </b><br>
-<i>2017 ICML Workshop on Visualization for Deep Learning.</i>
+<i>ICML 2017 Workshop on Visualization for Deep Learning.</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/example_paper.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/DeepView.mp4">[Video]</a>
 </li>
@@ -43,7 +44,7 @@ Cong Xie, Wen Zhong, Klaus Mueller
 <li >
 Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
 <br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
-<i>VLDB-DMAH 2016</i>
+<i>VLDB 2016 Workshop on Data Management and Analytics for Medicine and Healthcare</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
 </li>
 
