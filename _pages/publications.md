@@ -28,7 +28,7 @@ Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, and Klaus Mu
 <li >
 Wei Chen, Cong Xie, Pingping Shang, Qunsheng Peng. 
 <br><b>Visual Analysis of User-Driven Association Rule Mining</b><br>
-<i>Journal of Visual Languages & Computing, 2017.</i>
+<i>Journal of Visual Languages & Computing</i>
 </li>
 </p>
 <h2 style="margin-bottom:0px;padding-top:10px;">2016</h2>
@@ -53,7 +53,6 @@ Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
 Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
 <br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
-vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/file247-6.mp4">[Video]</a>
 </li>
@@ -61,7 +60,7 @@ vol.20, no. 12, pp. 1743-1752, Dec. 2014
 <p>
 <li >DanFang Yan, SenXiang Yan , ZhongJie Lu, Cong Xie, Wei Chen, et al.
 <br><b>Postoperative radiotherapy for glioma: Improved delineation of the clinical target volume using the geodesic distance calculation</b><br>
-<i>PLoS ONE 2014</i>
+<i>PLoS ONE</i>
 </li>
 </p>
 
@@ -77,14 +76,12 @@ Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei C
 Guizhen Wang, Chaokai Wen, Binghui Yan, Cong Xie, Ronghua Liang and Wei Chen
 <br><b>Topic Hypergraph: Hierarchical Visualization of Thematic Structures in Long Documents</b><br>
 <i>Science China Information Sciences</i>
-May 2013, Volume 56, Issue 5, pp 1-14.
 </li>
 <p>
 <li >
 Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
 <br><b>An Online Visualization System for Streaming Log Data of Computing Clusters</b><br>
 <i>Tsinghua Science and Technology</i>
-2013, 18(2):196-205
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/stream.pdf">[PDF]</a>
 </li>
 </p>
@@ -93,6 +90,6 @@ Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
 Hui Lei, Jiawei Zhang, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
 <br><b>Visualizing Large- Scale Graph Based on Line Integral Convolution</b><br>
 <i>Journal of Computer-Aided Design & Computer Graphics 2013</i>
-25(9) (In Chinese)
+(In Chinese)
 </li>
 </p>
