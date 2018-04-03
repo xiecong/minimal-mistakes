@@ -40,13 +40,14 @@ Cong Xie, Wen Zhong, Klaus Mueller
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/vast261_latest.pdf">[PDF]</a>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/video.mp4">[Video]</a>
 </li>
-
+<p>
 <li >
 Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
 <br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
 <i>VLDB 2016 Workshop on Data Management and Analytics for Medicine and Healthcare</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
 </li>
+</p>
 
 <h2 style="margin-bottom:0px;padding-top:10px;">2014</h2>
 <li >
@@ -72,11 +73,13 @@ Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei C
 <i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
 <a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/3DPBA.pdf">[PDF]</a>
 </li>
+<p>
 <li >
 Guizhen Wang, Chaokai Wen, Binghui Yan, Cong Xie, Ronghua Liang and Wei Chen
 <br><b>Topic Hypergraph: Hierarchical Visualization of Thematic Structures in Long Documents</b><br>
 <i>Science China Information Sciences</i>
 </li>
+</p>
 <p>
 <li >
 Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
