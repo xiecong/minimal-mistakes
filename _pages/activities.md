@@ -5,6 +5,8 @@ excerpt: "Activities"
 author_profile: true
 permalink: /activities.html
 ---
+* Intern at [Facebook](https://www.facebook.com). Worked on Feature & Model Understanding project of News Feed Ranking team. <br> May 2018 - August 2018.
+
 * Join panel "Brainstorming on deep learning visualization tools" at ICML 2017 Workshop on Visualization for Deep Learning, Sydney, Australia. <br> August 2017.
 
 * Intern at [Brookhaven National Lab](https://www.bnl.gov/). Worked on high performance computing and hypergraph learning on heterogeneous data. <br> May 2017 - August 2017.
