@@ -15,6 +15,7 @@ Cong Xie, Wei Xu, Klaus Mueller
 <i>IEEE Transactions on Visualization & Computer Graphics</i>
 <b>(IEEE VAST 2018 Honorable Mention Award)</b>
 </li>
+</p>
 <li >
 Cong Xie, Wen Zhong, Wei Xu, Klaus Mueller
 <br><b>Visual Analytics of Heterogeneous Data using Hypergraph Learning</b><br>
