@@ -10,6 +10,12 @@ permalink: /publications.html
 
 <h2 style="margin-bottom:0px;padding-top:10px;">2018</h2>
 <li >
+Cong Xie, Wei Xu, Klaus Mueller
+<br><b>A Visual Analytics Framework for the Detection of Anomalous Call Stack Trees in High Performance Computing Application</b><br>
+<i>IEEE Transactions on Visualization & Computer Graphics</i>
+<b>(IEEE VAST 2018 Honorable Mention Award)</b>
+</li>
+<li >
 Cong Xie, Wen Zhong, Wei Xu, Klaus Mueller
 <br><b>Visual Analytics of Heterogeneous Data using Hypergraph Learning</b><br>
 <i>ACM Transactions on Intelligent Systems and Technology</i>
