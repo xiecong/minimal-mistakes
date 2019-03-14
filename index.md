@@ -7,6 +7,6 @@ Hi, I am Cong Xie. I am now a research scientist at Facebook, Inc. I got my Ph.D
 I received master degree in [Zhejiang University](http://www.zju.edu.cn/), under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/).
 My research interest is Visual Analytics and Machine Learning.
 
-Email: coxie AT cs DOT stonybrook DOT com
+Email: xiecng AT gmail DOT com
             
-You can also download my [full CV](http://www3.cs.stonybrook.edu/~coxie/homepage_files/cong_cv.pdf).
+My resume here: [CV](http://www3.cs.stonybrook.edu/~coxie/homepage_files/cong_cv.pdf).
