@@ -6,6 +6,9 @@ author_profile: true
 permalink: /projects.html
 ---
 
+* [**Chimbuko Performance Visualization**](https://github.com/CODARcode/Chimbuko)<br>
+Proposed the call stack tree embedding representation of the function call stack structures. It was applied in thehigh performance computing visual analysis and anomaly detection in the Brookhaven National Lab CODAR project.
+
 * [**Microsoft PowerBI**](http://github.com/Microsoft/PowerBI-visuals-core)<br>
 A business intelligence tool based on D3.js. 
 I developed the Enhanced Scatter Plot Chart and Timeline Chart for the web version of Power BI.
