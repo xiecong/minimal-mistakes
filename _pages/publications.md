@@ -8,6 +8,14 @@ permalink: /publications.html
 
 <a href="https://scholar.google.com/citations?user=DyabMZwAAAAJ&hl=en">Google Scholar</a>
 
+<h2 style="margin-bottom:0px;padding-top:10px;">2019</h2>
+<li >
+C Xie, W Jeong, G Matyasfalvi, H Van Dam, K Mueller, S Yoo, W Xu
+<br><b>Exploratory Visual Analysis of Anomalous Runtime Behavior in Streaming High Performance Computing Applications</b><br>
+<i>International Conference on Computational Science</i>
+</li>
+<p>
+  
 <h2 style="margin-bottom:0px;padding-top:10px;">2018</h2>
 <li >
 Cong Xie, Wei Xu, Klaus Mueller
