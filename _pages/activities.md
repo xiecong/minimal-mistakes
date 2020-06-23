@@ -6,6 +6,8 @@ author_profile: true
 permalink: /activities.html
 ---
 
+* Panel talk at Facebook Machine Learning PhD Campus Event, Nov 2019
+
 * Phd Thesis Defense of "Visual analytics of heterogeneous data using hypergraph learning" at Srony Brook University <br> Dec 2018.
 
 * Receive IEEE VAST 2018 Honorable Mention Award and present paper "A Visual Analytics Framework for the Detection of Anomalous Call Stack Trees in High Performance Computing Application" at IEEE VIS, Berlin, Germany <br> Oct 2018.
