@@ -8,5 +8,3 @@ I received master degree in [Zhejiang University](http://www.zju.edu.cn/), under
 My research interest is Visual Analytics and Machine Learning.
 
 Email: xiecng AT gmail DOT com
-            
-My resume here: [CV](http://www3.cs.stonybrook.edu/~coxie/homepage_files/cong_cv.pdf).
