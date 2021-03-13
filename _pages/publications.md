@@ -8,6 +8,22 @@ permalink: /publications.html
 
 <a href="https://scholar.google.com/citations?user=DyabMZwAAAAJ&hl=en">Google Scholar</a>
 
+<h2 style="margin-bottom:0px;padding-top:10px;">2020</h2>
+<li >
+J Xia, T Chen, L Zhang, W Chen, Y Chen, X Zhang, C Xie, T Schreck
+<br><b>SMAP: A Joint Dimensionality Reduction Scheme for Secure Multi-Party Visualization</b><br>
+<i>2020 IEEE Conference on Visual Analytics Science and Technology (VAST)</i>
+</li>
+<p>
+
+<li >
+J Xia, Y Zhang, H Ye, Y Wang, G Jiang, Y Zhao, C Xie, X Kui, S Liao, et al.
+<br><b>Supoolvisor: a visual analytics system for mining pool surveillance
+</b><br>
+<i>Frontiers of Information Technology & Electronic Engineering</i>
+</li>
+<p>
+
 <h2 style="margin-bottom:0px;padding-top:10px;">2019</h2>
 <li >
 C Xie, W Jeong, G Matyasfalvi, H Van Dam, K Mueller, S Yoo, W Xu
